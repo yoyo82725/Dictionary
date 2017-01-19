@@ -15,6 +15,4 @@ import_gcide_xml.php
 tts.php
 智慧發音
 
-![image](https://raw.githubusercontent.com/yoyo82725/Dictionary/master/TestDictionary2.PNG)
-
 ![image](https://raw.githubusercontent.com/yoyo82725/Dictionary/master/TestDictionary.JPG)
