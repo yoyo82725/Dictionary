@@ -17,4 +17,4 @@ tts.php
 
 ![image](https://raw.githubusercontent.com/yoyo82725/Dictionary/master/TestDictionary2.PNG)
 
-![image](https://raw.githubusercontent.com/yoyo82725/Dictionary/master/TestDictionary.PNG)
+![image](https://raw.githubusercontent.com/yoyo82725/Dictionary/master/TestDictionary.jpg)
