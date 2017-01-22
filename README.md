@@ -13,6 +13,6 @@ import_gcide_xml.php
 將字典資料xml匯入資料庫
 
 tts.php
-智慧發音
+Google發音
 
 ![image](https://raw.githubusercontent.com/yoyo82725/Dictionary/master/TestDictionary.JPG)
